@@ -1,8 +1,8 @@
 # Proyecto Traductor Lenguaje Natural a SQL
 
 Universidad Autónoma de Tamaulipas 
-
-Programación de Sistemas de Base 
+---
+**Programación de Sistemas de Base** 
 **Profesor: Muñoz Quinteros Dante**
 *Octavo semestre, año 2025* 
 ---
